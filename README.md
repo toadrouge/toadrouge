@@ -44,7 +44,7 @@
 ## Liens utiles
 <p align="left">
 
-<a href = "https://discord.gg/chinaleak"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png" width="45"/></a>
-<a href = "https://www.youtube.com/@KazuroSeinsei"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<!-- <a href = "https://discord.gg/chinaleak"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png" width="45"/></a>
+<a href = "https://www.youtube.com/@KazuroSeinsei"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
